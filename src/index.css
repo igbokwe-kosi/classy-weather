@@ -47,12 +47,14 @@ h2 {
 
 input {
   font-family: inherit;
+  text-align: center;
   color: inherit;
   font-size: 2rem;
   background-color: #f0d2ce;
   padding: 1.6rem 3.2rem;
   border: none;
   width: 32rem;
+  margin: 0 auto;
 }
 
 input:focus {
